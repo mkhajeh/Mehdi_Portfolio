@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Mehdi Khajeh</title>
+    <link>https://mkhajeh.github.io/Mehdi_Portfolio/post/</link>
+    <description>Recent content in Projects on Mehdi Khajeh</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 02 Aug 2020 12:00:00 -0500</lastBuildDate><atom:link href="https://mkhajeh.github.io/Mehdi_Portfolio/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Recommendation with IBM</title>
+      <link>https://mkhajeh.github.io/Mehdi_Portfolio/post/project-3/</link>
+      <pubDate>Thu, 10 Dec 2020 11:00:59 -0400</pubDate>
+      
+      <guid>https://mkhajeh.github.io/Mehdi_Portfolio/post/project-3/</guid>
+      <description>Analyzed the interactions that users have with articles on the IBM Watson Studio platform:  Performed data cleaning and explanatory data analysis (EDA) before dive into details of recommendations.   Made recommendations to them about new articles they will like:  Developed Rank-Based recommendations Established User-User based collaborative filtering Used Machine Learning approach to build recommendation based on user-item interactions and matrix decomposition   Assessed which methods we might use moving forward for new users and for engaging users (using A/B testing).</description>
+    </item>
+    
+    <item>
+      <title>Disaster Response Pipelines</title>
+      <link>https://mkhajeh.github.io/Mehdi_Portfolio/post/project-2/</link>
+      <pubDate>Tue, 10 Nov 2020 11:00:59 -0400</pubDate>
+      
+      <guid>https://mkhajeh.github.io/Mehdi_Portfolio/post/project-2/</guid>
+      <description>Went through ETL Pipeline:  Extracted, cleaned and finally stored data in SQLite database.   Went through Machine Learning Pipeline:  Split cleaned data (output of previous step) into a training set and a test set. Created a Machine Learning Pipeline that uses NLTK, as well as scikit-learn&amp;rsquo;s Pipeline and GridSearchCV for Classification. Exported the model in pickle file.   Shared my insights with stakeholders through Flask web app.</description>
+    </item>
+    
+    <item>
+      <title>StackOverFlow 2017 Survey Analysis</title>
+      <link>https://mkhajeh.github.io/Mehdi_Portfolio/post/project-1/</link>
+      <pubDate>Sat, 10 Oct 2020 11:00:59 -0400</pubDate>
+      
+      <guid>https://mkhajeh.github.io/Mehdi_Portfolio/post/project-1/</guid>
+      <description> Came up with some questions that I was interested in answering. Extracted the necessary data to answer these questions. Performed necessary cleaning, analysis, and modeling. Evaluated how salary is well correlated with some main features of participants (e.g. Gender, Education, Level of experience and etc.). Developed regression model to predict salary using main features determined in previous steps. Shared my insights with stakeholders through Medium.   predicted vs. actual result of regression model   This Project&amp;rsquo;s GitHub Repository  </description>
+    </item>
+    
+    <item>
+      <title>Wrangling, Analyzing and Visualization of a Twitter Account</title>
+      <link>https://mkhajeh.github.io/Mehdi_Portfolio/post/project-6/</link>
+      <pubDate>Fri, 10 Jul 2020 11:00:59 -0400</pubDate>
+      
+      <guid>https://mkhajeh.github.io/Mehdi_Portfolio/post/project-6/</guid>
+      <description> Wrangled data:  Gathered data from different sources Assessed data and prepared summary of assessment for the next step which is cleaning step Cleaned data (resolving both quality and tidiness issues)   Showcased the wrangling efforts through analyses and visualizations   visualization of results after cleaning   This Project&amp;rsquo;s GitHub Repository  </description>
+    </item>
+    
+    <item>
+      <title>A/B Test and Logistic Regression Analysis</title>
+      <link>https://mkhajeh.github.io/Mehdi_Portfolio/post/project-5/</link>
+      <pubDate>Wed, 10 Jun 2020 11:00:59 -0400</pubDate>
+      
+      <guid>https://mkhajeh.github.io/Mehdi_Portfolio/post/project-5/</guid>
+      <description>Cleaned original data set to have two conclusive groups: Treatment group vs. Control groups Statistical Analysis of cleaned sample data (output of previous step) Defined Null and Alternative hypothesis and went through A/B testing Went through Logistic Regression Approach for the same purpose as A/B testing Made conclusion based on A/B testing and logistic regression.  Both A/B testing and logistic regression resulted in making this conclusion that original version of website works better than modified version.</description>
+    </item>
+    
+    <item>
+      <title>TMDB Movie Data Base</title>
+      <link>https://mkhajeh.github.io/Mehdi_Portfolio/post/project-4/</link>
+      <pubDate>Sun, 10 May 2020 11:00:59 -0400</pubDate>
+      
+      <guid>https://mkhajeh.github.io/Mehdi_Portfolio/post/project-4/</guid>
+      <description>Started with Asking some &amp;ldquo;Research Questions&amp;rdquo; that I was interested to find answer for them
+  Went through Data Wrangling step based on my interested question
+ Data Gathering Data Assessment Data Cleaning    Went through Exploratory Data Analysis (EDA) and visualization
+  Summarized limitation and main conclusions obtained from this project   Main_Genre Count for all Years for all Genres   This Project&amp;rsquo;s GitHub Repository</description>
+    </item>
+    
+  </channel>
+</rss>
